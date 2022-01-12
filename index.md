@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Carlo Augustine - Software Developer
 
-You can use the [editor on GitHub](https://github.com/augustinemagna/My-Potrtfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h3>About Me:</h3>
+                    <h4>My hometown is San Diego.</h4>
+                    <h4>My favorite color is Dakota Red.</h4>
+                    <h4>My favorite food is Sushi.</h4>
+                    <h4>If I could be any animal, I would be a Blue Shark.</h4>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
