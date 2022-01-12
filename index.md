@@ -1,6 +1,6 @@
 ## Carlo Augustine - Software Developer
 
-<i><h3>About Me:</h3><i>
+<i>About Me:<i>
 <ul>My hometown is San Diego.<br />
 My favorite color is Dakota Red.<br />
 My favorite food is Sushi.<br />
